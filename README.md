@@ -30,4 +30,16 @@ high-frequency-denoising/
 ├── main.py                     # Execution script
 ├── requirements.txt            # Dependency management
 └── README.md
+```
 
+## Installation & Usage
+1. Clone the repository and install dependencies:
+```bash
+git clone [https://github.com/yourusername/high-frequency-denoising.git](https://github.com/yourusername/high-frequency-denoising.git)
+cd high-frequency-denoising
+pip install -r requirements.txt
+```
+
+2. Execute the denoising pipeline:
+```bash
+python main.py
