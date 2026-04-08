@@ -35,8 +35,8 @@ high-frequency-denoising/
 ## Installation & Usage
 1. Clone the repository and install dependencies:
 ```bash
-git clone [https://github.com/yourusername/high-frequency-denoising.git](https://github.com/yourusername/high-frequency-denoising.git)
-cd high-frequency-denoising
+git clone [https://github.com/josephquigley01-cmd/High-Frequency-Signal-Denoising.git](https://github.com/josephquigley01-cmd/High-Frequency-Signal-Denoising.git)
+cd High-Frequency-Signal-Denoising
 pip install -r requirements.txt
 ```
 
